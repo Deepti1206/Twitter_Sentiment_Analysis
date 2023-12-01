@@ -20,7 +20,7 @@ Certainly! Here are the numbered points extracted from the last message:
 6. Visualization
 7. Analysis and Interpretation
 
-*I have skipped the data cleaning part for this project, we will directly start exportimng the cleaned data. You will find in the folder above.*
+*I have skipped the data cleaning part for this project, we will directly start exporting the cleaned data. You will find in the folder above.*
 
 #### Import the libraries and load the data
 
