@@ -4,7 +4,8 @@
 
 This is a basic analysis of sentiments through the tweets of FCPD on twitter
 
-Sentiment Analysis of Fairfax Police Tweets from Twitter (now X)
+##### Sentiment Analysis of Fairfax Police Tweets from Twitter (now X)
+
 In this project, sentiment analysis was conducted on tweets from the Fairfax Police. The goal was to evaluate the sentiment expressed in each tweet.. Following the sentiment analysis, tweets were categorized into three distinct groups: "Important" , "General" and "Non-Important." This categorization provides valuable insights into the nature of sentiments expressed in the tweets, helping to distinguish between tweets of significance and those of lesser importance.
 
 The following steps were performed from data export to sentiment analysis:
